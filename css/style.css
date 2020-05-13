@@ -189,28 +189,8 @@ h1{
 
 .marked-summary{
   background-color: var(--lighter-bg-color);
-
-}
-/* 
-nav-link::before{
-  content: '';
-  display: inline-block;
-  border: solid .15rem var(--text-color);
-  height: 0;
-  width: 0rem;
-  transition: all .5s;
-  opacity: 0;
-  border-radius: 2rem;
-  margin: 0 .25rem .125rem 0;
 }
 
-.marked-summary.nav-link::before{
-  content: '';
-  opacity: 1;
-  border: solid .15rem var(--text-color);
-  width: 1rem; */
-
-}
 
 .checkbox-toggle[type=checkbox]:checked ~ ul.nav-list {
   position: static;
