@@ -21,7 +21,7 @@ body {
   font-family: 'Roboto', Arial, sans-serif;
   line-height: 1.5;
   font-size: 1.05rem;
-
+  scroll-behavior: smooth;
 }
 
 a{
